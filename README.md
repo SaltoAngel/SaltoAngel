@@ -2,4 +2,8 @@
 <div align="center"> 
 
 
- <img width="35%" src="https://github.com/user-attachments/assets/fe0c5c84-b70b-4a75-b8dd-a8c636f42609"> 
+ <img width="50%" src="https://github.com/user-attachments/assets/89599a9c-1f86-4f7e-90cf-57aa8f37e0f4"> 
+
+
+
+
