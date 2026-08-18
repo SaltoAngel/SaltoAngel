@@ -6,7 +6,7 @@
    <table>
     <tr>
       <td>
-        ಥ﹏ಥ <a href="https://undenied.atabook.org/">atabook</a> <a href="https://listography.com/starpudding">listography</a>
+        ‪(^ ̳ _ ̫ _ ̳^‬)♪˒˒ <a href="https://undenied.atabook.org/">atabook</a> <a href="https://listography.com/starpudding">listography</a>
       </td>
     </tr>
   </table>
