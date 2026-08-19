@@ -6,7 +6,7 @@
    <table>
     <tr>
       <td>
-        ‪(^ ̳ _ ̫ _ ̳^‬)♪˒˒ <a href="https://undenied.atabook.org/">atabook</a> <a href="https://listography.com/starpudding">listography</a> <a href="https://www.last.fm/user/starpilled">last.fm</a>
+        ‪(^ ̳ _ ̫ _ ̳^‬)♪˒˒ <a href="https://dreampop.atabook.org/">atabook</a> <a href="https://listography.com/starpudding">listography</a> <a href="https://www.last.fm/user/starpilled">last.fm</a>
       </td>
     </tr>
   </table>
